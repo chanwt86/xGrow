@@ -55,8 +55,8 @@ const float HUMIDITY_COMFORT_MIN = 40;
 const float HUMIDITY_COMFORT_MAX = 60;
 
 // WIFI
-char ssid[50] = "Smartisan 2.4"; // your network SSID (name)
-char password[50] = "4008517517"; // your network password
+char ssid[50] = "S&K Router"; // your network SSID (name)
+char password[50] = "88888888"; // your network password
 // Number of milliseconds to wait without receiving any data before we give up
 const int kNetworkTimeout = 30 * 1000;
 // Number of milliseconds to wait if no data is available before trying again
