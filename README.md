@@ -16,6 +16,7 @@ for plant care. xGrow demonstrates the potential for smart systems to simplify p
 outcomes for hobbyists and enthusiasts alike.
 
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/aa312261-d940-4be9-af02-803ec4869ed4" />
+
 Sensor and Data Collection: Our system includes a Photoresistor , Soil Moisture Sensor , and the DHT 20.
 These components collect data about the plant's environment and send these information to the LIL YGO
 microcontroller .
