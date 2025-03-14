@@ -20,11 +20,13 @@ outcomes for hobbyists and enthusiasts alike.
 Sensor and Data Collection: Our system includes a Photoresistor , Soil Moisture Sensor , and the DHT 20.
 These components collect data about the plant's environment and send these information to the LIL YGO
 microcontroller .
+
 Alert System: The red LED and Buzzer serves as an alert, they will alert to notify the user when the watering
 system needs more water with visual and audible ques.
 Watering System: The servo allows the watering system to provide water to the plant.
 Lighting System: The lighting system will provide the plant with light if needed based on the data collected
 on the environment.
+
 Cloud Integration: Temperature and humidity data are sent to the EC2 Server via WiFi, where users can see
 the last 20 seconds of data updated in real time.
 Bluetooth Control: Users can also use their mobile device to control the watering system and lighting
