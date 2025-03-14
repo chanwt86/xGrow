@@ -1,3 +1,6 @@
+# xGrow - All-In-One Plant Monitoring and Care System
+
+## INTRODUCTION
 Maintaining optimal plant health can be a challenge for individuals due to busy schedules and limited
 understanding of plant care requirements. 
 
@@ -14,6 +17,8 @@ device.
 Our project emphasizes affordability, functionality, and ease of use, offering a practical solution
 for plant care. xGrow demonstrates the potential for smart systems to simplify plant care and improve
 outcomes for hobbyists and enthusiasts alike.
+
+## SYSTEM ARCHITECTURE
 
 <img width="599" alt="image" src="https://github.com/user-attachments/assets/aa312261-d940-4be9-af02-803ec4869ed4" />
 
