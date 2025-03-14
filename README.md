@@ -36,3 +36,6 @@ Cloud Integration: Temperature and humidity data are sent to the EC2 Server via 
 the last 20 seconds of data updated in real time.
 Bluetooth Control: Users can also use their mobile device to control the watering system and lighting
 through bluetooth.
+
+## DEMO VIDEO
+https://drive.google.com/file/d/150TBBn7Wp8FPF3ztS__qUbtNUBNf1Gp2/view?usp=sharing
