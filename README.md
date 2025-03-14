@@ -38,4 +38,4 @@ Bluetooth Control: Users can also use their mobile device to control the waterin
 through bluetooth.
 
 ## DEMO VIDEO
-https://drive.google.com/file/d/150TBBn7Wp8FPF3ztS__qUbtNUBNf1Gp2/view?usp=sharing
+https://youtu.be/8uKrajHAadE
